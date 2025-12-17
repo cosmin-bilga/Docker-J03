@@ -16,6 +16,19 @@
 
 # Affichage contenu volume
 
-![alt-text](image/affichage_volumes.jpg)
+![alt-text](image/afficher_contenu_volume.jpg)
+![alt-text](image/afficher_contenu_volume_2.jpg)
 
 # Affichage contenu conteneur
+
+![alt-text](image/affichage_conteneur.jpg)
+![alt-text](image/affichage_conteneur_2.jpg)
+
+# Affichange results.json
+
+![alt-text](image/results.jpg)
+![alt-text](image/results_2.jpg)
+
+# JSON apres arret du conteneur:
+
+![alt-text](image/resultats_final.jpg)
